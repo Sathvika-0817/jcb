@@ -11,12 +11,12 @@
       <![CDATA[Hii maven]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-12-03T14:24:29 IST" name="Suite" finished-at="2025-12-03T14:24:29 IST" duration-ms="69">
+  <suite started-at="2025-12-04T11:47:08 IST" name="Suite" finished-at="2025-12-04T11:47:08 IST" duration-ms="63">
     <groups>
     </groups>
-    <test started-at="2025-12-03T14:24:29 IST" name="Test" finished-at="2025-12-03T14:24:29 IST" duration-ms="69">
+    <test started-at="2025-12-04T11:47:08 IST" name="Test" finished-at="2025-12-04T11:47:08 IST" duration-ms="63">
       <class name="maven.MavenPracticeTest">
-        <test-method signature="mavenPractice()[pri:0, instance:maven.MavenPracticeTest@428640fa]" started-at="2025-12-03T14:24:29 IST" name="mavenPractice" finished-at="2025-12-03T14:24:29 IST" duration-ms="1" status="PASS">
+        <test-method signature="mavenPractice()[pri:0, instance:maven.MavenPracticeTest@428640fa]" started-at="2025-12-04T11:47:08 IST" name="mavenPractice" finished-at="2025-12-04T11:47:08 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Hii maven]]>
@@ -25,7 +25,7 @@
         </test-method> <!-- mavenPractice -->
       </class> <!-- maven.MavenPracticeTest -->
       <class name="jenkins.JenkinsPracticeTest">
-        <test-method signature="jenkinsPracticeTest()[pri:0, instance:jenkins.JenkinsPracticeTest@4c1909a3]" started-at="2025-12-03T14:24:29 IST" name="jenkinsPracticeTest" finished-at="2025-12-03T14:24:29 IST" duration-ms="1" status="PASS">
+        <test-method signature="jenkinsPracticeTest()[pri:0, instance:jenkins.JenkinsPracticeTest@4c1909a3]" started-at="2025-12-04T11:47:08 IST" name="jenkinsPracticeTest" finished-at="2025-12-04T11:47:08 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Hii jenkinsc]]>
@@ -34,7 +34,7 @@
         </test-method> <!-- jenkinsPracticeTest -->
       </class> <!-- jenkins.JenkinsPracticeTest -->
       <class name="github.GithubPracticeTest">
-        <test-method signature="githubPractice()[pri:0, instance:github.GithubPracticeTest@82de64a]" started-at="2025-12-03T14:24:29 IST" name="githubPractice" finished-at="2025-12-03T14:24:29 IST" duration-ms="8" status="PASS">
+        <test-method signature="githubPractice()[pri:0, instance:github.GithubPracticeTest@82de64a]" started-at="2025-12-04T11:47:08 IST" name="githubPractice" finished-at="2025-12-04T11:47:08 IST" duration-ms="9" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Hii github]]>
